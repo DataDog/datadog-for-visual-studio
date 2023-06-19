@@ -1,1 +1,1 @@
-# datadog-for-visual-studio
+# Datadog extension for Visual Studio
