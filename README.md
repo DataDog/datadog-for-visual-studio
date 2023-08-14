@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Datadog extension for Visual Studio helps you to improve software performance by providing meaningful code-level insights in the IDE based on real-time observability data. Together with the Continuous Profiler, the plugin helps you to reduce latency and lower cloud costs by highlighting code lines that:
+The [Datadog extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=Datadog.VisualStudio) helps you to improve software performance by providing meaningful code-level insights in the IDE based on real-time observability data. Together with the Continuous Profiler, the plugin helps you to reduce latency and lower cloud costs by highlighting code lines that:
 
 * Consume the most CPU
 * Allocate the most memory
