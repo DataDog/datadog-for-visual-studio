@@ -36,4 +36,4 @@ If you have encountered an issue, please report it on our [Issue Tracker](https:
 
 ## License
 
-Please read the [End-User License Agreement](https://www.datadoghq.com/legal/software-licenses/visual-studio/) carefully before downloading or using the extension.
+Please read the [End-User License Agreement](https://www.datadoghq.com/legal/eula/) carefully before downloading or using the Visual Studio extension.
